@@ -1,4 +1,4 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://eve-loader.github.io/"
 theme: "up-business-theme"
 languageCode: "ee-ee"
 
@@ -14,7 +14,7 @@ params:
   images: 
     - "images/hero-image.png"
 
-  logo: "arrow-up.png"
+  logo: "icon_logo_helles.png"
 
   favicons:
     themeColor: "#FFFFFF"
@@ -35,7 +35,7 @@ params:
     - "trungkienspktnd@gamail.com"
     - "207.555.0119"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2024 Up Business All Rights Reserved"
 
 menus:
   main:
