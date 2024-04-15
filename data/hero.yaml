@@ -3,13 +3,13 @@ id: "hero"
 
 content:
   title: "Kuidas viia oma **laadimisjaam** uuele tasemele?"	
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Est faucibus tellus leo non pellentesque lorem vel. Arcu magna eros, potenti duis."
+  text: "EVE võtab laadimise eest tasumise süsteemi enda kanda. Selmet kulutada makserakenduse arendamisele võta EVE appi."
 
   buttonPrimary:
-    label: "How we work"
+    label: "Kuidas see toimib?"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Räägime lähemalt"
     url: ""
 

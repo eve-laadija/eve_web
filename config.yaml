@@ -1,5 +1,5 @@
 baseURL: "https://eve-laadija.github.io/"
-theme: "up-business-theme"
+theme: "up-theme"
 languageCode: "ee-ee"
 
 title: "EVE"
